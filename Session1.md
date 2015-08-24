@@ -22,3 +22,6 @@
 	7.	Educator should make sure everyone is sitting at quite a distance from each other, so that people don’t peep into each other's work.
 	8.	Give them 10 - 15 mins to complete their artwork, and then ask them write their name at the back in caps.
 	9.	Now educator should pick each artwork, show it to the class and explain the work in form of few sentences addressing as third person (best by calling out creator’s name).
+
+# Homework
+Everyone needs to go and ask each person in office, these CAFE questions in English and post the conversation they will make a note in their pads. Colleagues will help them write and speak answers to these questions. 
