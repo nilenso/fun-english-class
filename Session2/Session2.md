@@ -4,7 +4,7 @@
 1. Understand how last session went, was everyone able to do homework?
 2. Discuss about Sir and Ma'am and explain how friendship, equality and diversity is more important and removing usage of these words will strengthen our bond.
 3. We will learn basics about sentence formation through face parts and will gradully dive into talking about Human Body in coming sessions, so try to set the foundation well. 
-4. Leanr to write basic face parts
+4. Learn to write basic face parts
 
 ## Plan 
 1.	Greetings (5 mins) 
