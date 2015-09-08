@@ -10,17 +10,23 @@ The intention of this project is to create a framework for teaching English with
   - "behaviour" encompasses our day-to-day choices: safety, conversation, interaction, culture, emotion
   - "design" encompasses the things we create and the space we live in: colour, light, shape, sound/acoustics, food, smells, textures, cohesion, wholes & parts
 
-- Concrete: Daily practices, valuable to the individual and society: 
+- Concrete: Daily practices, valuable to the individual and society:
   - Diet
   - Sleep patterns
   - Waste management (food compost, garden compost, e-waste, paper/plastic/glass/metal recycling)
   - Community resources (libraries, schools, parks)
   - Safe and clean modes of transportation
 
-The ultimate intention is for the students to learn English and further their careers. However, the continuous goal would be to ensure students never feel that's what they are striving toward.  
+The ultimate intention is for the students to learn English and further their careers. However, the continuous goal would be to ensure students never feel that's what they are striving toward.
 
 This project is licenced Creative Commons Zero. Please see LICENSE for details.
 
 ## Classroom Rules
 
 - no use of "sir" or "ma'am" is permitted; first names only
+
+## Setup
+
+- to modify the OpenOffice (*.odt) files you will require the AbcPrintDotted font:
+
+  http://www.azfonts.net/load_font/abcprintdotted.html
