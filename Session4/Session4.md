@@ -22,9 +22,8 @@
       - Form a group all sitting facing each other. Clear monitors off tables if requried.
       - One by one, discuss the following:
   	      - Describe a room in your house
-  	      - Something that you leave the house with, and something that you bring back 
-  		      - (ex. leave with money, bring back groceries, leave with a bag, buy a pen
-      	- Name one object from each room of the house
+  	      - Something that you leave the house with, and something that you bring back (ex. leave with money, bring back groceries, leave with a bag, buy a pen
+  	      - Name one object from each room of the house
      
 
 ## Homework
